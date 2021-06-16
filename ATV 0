@@ -1,0 +1,12 @@
+valor1=5
+valor2=10
+
+soma=$[valor1 + valor2]
+sub=$[valor1-valor2]
+multi=$[valor1*valor2]
+div=$[valor1/valor2]
+
+echo Soma =  $soma
+echo Subtração =  $sub
+echo Multiplicação =  $multi
+echo Divisão =  $div
