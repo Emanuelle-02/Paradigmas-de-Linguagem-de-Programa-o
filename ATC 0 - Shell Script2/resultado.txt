@@ -1,0 +1,7 @@
+Informe o primeiro número:
+Informe o segundo número:
+ 
+Adição: 15 + 5 = 20
+Subtração: 15 - 5 = 10
+Multiplicação: 15 * 5 = 75
+Divisão: 15 / 5 = 3
